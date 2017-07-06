@@ -5,31 +5,31 @@
 * Update date: 17.07.06  
 * vim version: >= 8  
 
-### Requirement  
+## Requirement  
 
-#### Vim Bundle  
+### Vim Bundle Install  
 
-** Install **  
 
 ```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
 ```
-#### Git clone  
+### Git clone  
 
 ```
-git clone https://github.com/sauber92/sauber92-vimrc.git  
+$ git clone https://github.com/sauber92/sauber92-vimrc.git  
+$ sudo cp .vimrc ~/.vimrc
 ```
 
 
-#### Plugin Install  
+### Plugin Install  
 
-Start Vim or Vi editor  
+#### Start Vim or Vi editor  
 
 ```
 $ vim  
 ```
 
-Plugin Install  
+#### Plugin Install  
 
 ```
 :PluginInstall  
