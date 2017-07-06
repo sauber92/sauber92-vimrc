@@ -17,7 +17,7 @@ $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ```
 $ git clone https://github.com/sauber92/sauber92-vimrc.git  
-$ sudo cp .vimrc ~/.vimrc
+$ sudo cp sauber92-vimrc/.vimrc ~/.vimrc
 ```
 
 
