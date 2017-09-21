@@ -1,3 +1,5 @@
+filetype indent plugin on
+syntax on
 set number
 set smartindent
 set autoindent
